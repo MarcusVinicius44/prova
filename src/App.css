@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+}
+.barradenav{
+  background: #007bff;
+  display: flex;
+}
+.navfooter{
+  background: #007bff;
+  display: flex;
+  text-align: center;
+  top: 550px;
+}
+.paragrafo{
+  text-align: center;
+  color: #fff;
+  position: relative;
+  margin-bottom: 40px;
+  left: 400px;
+}
+.paragrafo2{
+  margin-top: 40px;
+  color: #fff;
+}
+.linav{
+  float: left;
+  margin-right: 3rem;
+  text-decoration: none;
+  list-style-type: none;
+  position: relative;
+  right: -1000px;
+  
+}
+.nav-link{
+  text-decoration: none;
+  color: #fff;
+}
+.imgnav{
+  width: 100px;
+  height: -10px;
+  padding: 10px;
+}
+.img{
+  position: relative;
+  width: 300px;
+  margin-bottom: 100px;
+  right: 30px;
+  margin-top: 50px;
+}
+.img2{
+  position: relative;
+  width: 310px;
+  margin-bottom: 100px;
+  right: 0px;
+  margin-top: 50px;
+}
+.img3{
+  position: relative;
+  width: 300px;
+  margin-bottom: 100px;
+  left: 30px;
+  margin-top: 30px;
+}
+.desc1{
+  position: relative;
+  right: 335px;
+  bottom: 100px;
+}
+.desc2{
+  position: relative;
+  right: 0px;
+  bottom: 185px;
+}
+.desc3{
+  position: relative;
+  left: 335px;
+  bottom: 290px;
+}
+.msgform{
+  left: 20px;
+}
